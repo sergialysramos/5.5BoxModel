@@ -1,0 +1,72 @@
+#primero {
+    width: 200px;
+    height: 100px;
+}
+
+#segundo {
+    margin: 20px;
+}
+
+#tercero {
+    padding: 10px;
+}
+
+#cuarto {
+    border: solid 2px red;
+}
+
+#quinto {
+    width: 150px;
+    margin-right: 10px;
+}
+
+#sexto {
+    border: solid 3px black;
+}
+
+#septimo li{
+    padding: 15px;
+}
+
+#octavo {
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+#noveno {
+    padding: 20px 5px 10px 5px;
+}
+
+#decimo {
+    width: 300px;
+    height: 200px;
+    margin: 25px;
+}
+
+#undecimo {
+    width: 250px;
+    height: 150px;
+    border: solid 1px black;
+    padding: 20px;
+}
+
+#duodecimo li {
+    margin-right: 15px;
+    padding: 10px;
+}
+
+#decimotercero {
+    max-width: 400px;
+    margin: 0;
+}
+
+#decimocuarto {
+    border: solid 2px green;
+    width: 350px;
+}
+
+#decimoquinto {
+    width: 120px;
+    margin-top: 10px;
+    padding: 5px;
+}
